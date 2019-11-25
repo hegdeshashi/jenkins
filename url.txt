@@ -5,4 +5,5 @@ http://guides.beanstalkapp.com/version-control/common-git-commands.html
 https://github.com/joshnh/Git-Commands
 
 https://www.edureka.co/blog/what-is-git/
+https://www.edureka.co/blog/git-tutorial/
 https://mindmajix.com/git-interview-questions-answers
